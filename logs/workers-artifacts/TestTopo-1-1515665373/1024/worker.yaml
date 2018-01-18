@@ -1,0 +1,4 @@
+worker-id: b8a1fef0-4b70-4f6f-ab00-9ec9b22ef43a
+logs.users: []
+logs.groups: []
+topology.submitter.user: jerry
